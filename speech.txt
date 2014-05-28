@@ -30,5 +30,4 @@ cómo entender el grafiquito de versiones
 
 merge entre branch (de dónde a dónde)
 
-pull request
-otro
+PULL REQUEST
