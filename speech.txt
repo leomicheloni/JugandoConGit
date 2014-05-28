@@ -1,0 +1,24 @@
+clonar repo
+concepto de repo local
+commit => concepto de commit local
+push => concepto de push, conflictos
+es necesario hacer pull siempre
+
+pull => concepto, baja cambios yhace un commit (es igual a fetch + commit)
+no se puede hacer pull si no está todo commit
+
+push a otro branch
+
+commit a otro branch local
+
+checkout otro brach
+
+checkout a commit
+
+stash
+
+trabajar con un branch local que no está remoto
+
+cómo entender el grafiquito de versiones
+
+merge entre branch (de dónde a dónde)
